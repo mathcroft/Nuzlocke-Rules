@@ -1,0 +1,42 @@
+body {
+    background-image: url("./images/pokemon-rouge-feu.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.561);
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    color: aqua;
+}
+
+.Container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
+
+.Rules {
+    background-color: rgba(240, 248, 255, 0.623);
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    border: blueviolet;  
+    border-radius: 5px; 
+    max-width: 40%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+    
+    font-size: 18px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
