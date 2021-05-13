@@ -21,7 +21,7 @@ h1 {
     justify-content: space-between;
 }
 
-.Container2 {
+.ContainerTwo {
     display: flex;
     flex-wrap: wrap; 
     justify-content: center;
@@ -39,7 +39,7 @@ h1 {
     border-width: 1px;
 }
 
-.Rules2 {
+.RulesTwo {
     background-color: rgba(240, 248, 255, 0.623);
     display: flex;
     margin: 5px;
