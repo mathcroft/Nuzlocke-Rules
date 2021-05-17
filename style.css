@@ -4,7 +4,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-
+/*
+header {
+    background-color: aliceblue;
+}
+*/
 h1 {
     background-color: rgba(0, 0, 0, 0.561);
     margin: 10px;
